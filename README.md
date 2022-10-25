@@ -1,6 +1,6 @@
 ## About Me
 
-- 🔭 I'm a full stack developer in the United States.
+- 🔭 I'm a full stack (Java) developer in the United States.
 - 🌱 I enjoy learning new things and primarily use this account for hobby projects.
 - 📫 How to reach me: [![Keybase PGP](https://img.shields.io/keybase/pgp/thoughtcriminal)](https://keybase.io/thoughtcriminal)
 - 😄 Pronouns: he/him/his
